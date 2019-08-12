@@ -1,0 +1,11 @@
+C:\Users\raefaldhiamartya\development\c-sharp\src\bin\Debug\netcoreapp2.2\src.deps.json
+C:\Users\raefaldhiamartya\development\c-sharp\src\bin\Debug\netcoreapp2.2\src.runtimeconfig.json
+C:\Users\raefaldhiamartya\development\c-sharp\src\bin\Debug\netcoreapp2.2\src.runtimeconfig.dev.json
+C:\Users\raefaldhiamartya\development\c-sharp\src\bin\Debug\netcoreapp2.2\src.dll
+C:\Users\raefaldhiamartya\development\c-sharp\src\bin\Debug\netcoreapp2.2\src.pdb
+C:\Users\raefaldhiamartya\development\c-sharp\src\obj\Debug\netcoreapp2.2\src.csprojAssemblyReference.cache
+C:\Users\raefaldhiamartya\development\c-sharp\src\obj\Debug\netcoreapp2.2\src.csproj.CoreCompileInputs.cache
+C:\Users\raefaldhiamartya\development\c-sharp\src\obj\Debug\netcoreapp2.2\src.AssemblyInfoInputs.cache
+C:\Users\raefaldhiamartya\development\c-sharp\src\obj\Debug\netcoreapp2.2\src.AssemblyInfo.cs
+C:\Users\raefaldhiamartya\development\c-sharp\src\obj\Debug\netcoreapp2.2\src.dll
+C:\Users\raefaldhiamartya\development\c-sharp\src\obj\Debug\netcoreapp2.2\src.pdb

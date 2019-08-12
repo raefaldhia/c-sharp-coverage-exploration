@@ -1,0 +1,17 @@
+C:\Users\raefaldhiamartya\development\c-sharp\tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\raefaldhiamartya\development\c-sharp\tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\raefaldhiamartya\development\c-sharp\tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\raefaldhiamartya\development\c-sharp\tests\bin\Debug\netcoreapp2.2\tests.deps.json
+C:\Users\raefaldhiamartya\development\c-sharp\tests\bin\Debug\netcoreapp2.2\tests.runtimeconfig.json
+C:\Users\raefaldhiamartya\development\c-sharp\tests\bin\Debug\netcoreapp2.2\tests.runtimeconfig.dev.json
+C:\Users\raefaldhiamartya\development\c-sharp\tests\bin\Debug\netcoreapp2.2\tests.dll
+C:\Users\raefaldhiamartya\development\c-sharp\tests\bin\Debug\netcoreapp2.2\tests.pdb
+C:\Users\raefaldhiamartya\development\c-sharp\tests\obj\Debug\netcoreapp2.2\tests.csproj.CoreCompileInputs.cache
+C:\Users\raefaldhiamartya\development\c-sharp\tests\obj\Debug\netcoreapp2.2\tests.AssemblyInfoInputs.cache
+C:\Users\raefaldhiamartya\development\c-sharp\tests\obj\Debug\netcoreapp2.2\tests.AssemblyInfo.cs
+C:\Users\raefaldhiamartya\development\c-sharp\tests\obj\Debug\netcoreapp2.2\tests.dll
+C:\Users\raefaldhiamartya\development\c-sharp\tests\obj\Debug\netcoreapp2.2\tests.pdb
+C:\Users\raefaldhiamartya\development\c-sharp\tests\obj\Debug\netcoreapp2.2\tests.csprojAssemblyReference.cache
+C:\Users\raefaldhiamartya\development\c-sharp\tests\bin\Debug\netcoreapp2.2\src.dll
+C:\Users\raefaldhiamartya\development\c-sharp\tests\bin\Debug\netcoreapp2.2\src.pdb
+C:\Users\raefaldhiamartya\development\c-sharp\tests\obj\Debug\netcoreapp2.2\tests.csproj.CopyComplete
